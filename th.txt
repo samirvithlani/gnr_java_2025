@@ -1,0 +1,31 @@
+OOPS:
+object oriented programming
+
+encpasulataion:
+	to wrap data in single unit
+		is a process of the binding data and methofs in a single unit(class)
+		while restrciting direct acess to that data
+	
+	class :
+		class is blue print of an object
+	object:
+		object is an entity of class
+	constrcutor:
+		a constructor is special method of class that automatically called when
+		an object is created,its primary use us to initilize the object state
+		and init instance variable of class
+		it has same name as class name
+		const does not have return type(not even void)
+		const can have param.
+		const can be public private protected and default
+	type of const:
+		default const : no param
+		param const: param
+		copy const**		
+		
+	access specifiers
+	methods
+
+inheritance
+polymorephisam
+abstraction
