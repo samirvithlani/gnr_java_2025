@@ -27,5 +27,26 @@ encpasulataion:
 	methods
 
 inheritance
+
+single inheritance:
+	1 --> chile
+multilevel:
+a-->b-->c--->d
+multipule:
+	many parent child single child
+hybride:
+	m +m
+hurarichal :
+				
+
+extends keyword				
+
+
 polymorephisam
 abstraction
+
+
+
+
+
+
