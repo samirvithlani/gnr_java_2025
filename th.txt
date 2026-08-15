@@ -45,6 +45,47 @@ extends keyword
 polymorephisam
 abstraction
 
+non-access modifiers:
+final
+static
+abstract
+syncronized
+volatile
+native
+strctfp
+sealed
+non-sealed
+transient
+
+
+local variable can not be static
+
+final variable can not cahnge
+final instaance variable must be initilize
+final method can not override
+final calss can not be extended..
+
+
+polymorephsiam
+poly means many 
+many form of the functions
+
+type of poly:
+compile time
+	method overloading... 
+run time:
+	method overriding
+
+
+method overloading:
+same class same name method with diff arguments or params
+
+
+
+
+
+
+
 
 
 
