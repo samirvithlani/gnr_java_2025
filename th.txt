@@ -82,7 +82,17 @@ same class same name method with diff arguments or params
 
 
 
+method overriding:
+	parent class method create in child class with same signature called method overriding
 
+signature: access modifiers,return type name of method , param of methods
+
+private method can not override	
+
+
+default ---> default,procted,public
+protected -> procted ,public
+public -->
 
 
 

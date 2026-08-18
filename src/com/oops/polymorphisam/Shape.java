@@ -7,7 +7,6 @@ public class Shape {
 	}
 	
 	public int area(int h,int w) {
-		
 		return h*w;
 	}
 	void area(float r) {
