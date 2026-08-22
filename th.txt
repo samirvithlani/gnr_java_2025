@@ -96,6 +96,39 @@ public -->
 
 
 
+abstraction:
+
+abstract TRAI:
+	call();
+
+jio:
+	jiocall()
+	call()
+vi:
+	vicall()
+	call()
+	
+	
+upi:
+
+qr -->hdfc
+	upi()
+
+scan ---> icici bank
+	upi()	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
