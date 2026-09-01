@@ -5,6 +5,12 @@ abstract class TRAI{
 	public abstract void call();
 	public void mms() {};
 	
+	public TRAI() {
+		
+		System.out.println("trai const...");
+	}
+
+	
 }
 
 class JIO extends TRAI{
