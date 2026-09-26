@@ -119,17 +119,28 @@ scan ---> icici bank
 
 
 
+--------------------------
 
+an exception is an unexcpeted event that occurs during program exceutoin and interrputs the normal floaw
+of excecution
+<-------------------->
 
+											Throwable
+		Error 																	Exception
+															RuntimeException                OtherException
+																														
+																														
+																														
+2 type of exceptoins are there in java:
+Checked / compile  exception
+unchecked / run time
+																														
 
+error must be resolve:
+exception has to handle
 
-
-
-
-
-
-
-
+-->try catch finally
+-->throws
 
 
 
