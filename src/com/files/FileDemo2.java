@@ -64,6 +64,25 @@ public class FileDemo2 {
 		
 	}
 	
+	public void moveFile() {
+		
+		File src = new File("data1.txt");
+		File dest = new File("src/com/files/data1.txt");
+		
+		src.renameTo(dest);
+	}
+	
+	
+	public void fileList () {
+		
+		File file = new File("src/com");
+		File[] f = file.listFiles();
+		for(File f1 :f) {
+			System.out.println(f1.getName());
+		}
+		
+	}
+	
 	
 	public void deleteFile() {
 		
@@ -115,6 +134,15 @@ public class FileDemo2 {
 		}
 		case 5:{
 			f2.deleteFile();
+			break;
+		}
+		case 6:{
+			f2.moveFile();
+			break;
+		}
+
+		case 7:{
+			f2.fileList();
 			break;
 		}
 
