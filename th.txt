@@ -1,4 +1,4 @@
-OOPS:
+AOOPS:
 object oriented programming
 
 encpasulataion:
@@ -150,4 +150,22 @@ java.io.*
 
 realtive:
 absolute:
+
+									java io
+Character stream 												Byte stream class
+FileReader											          FileInputStream
+FileWriter													  FileOutputStream					
+BufferedReader												  BufferedInputStream / out	
+BufferedWriter												  DataInputStream,out	
+PrintWriter								
+
+
+
+
+
+
+
+
+
+
 
