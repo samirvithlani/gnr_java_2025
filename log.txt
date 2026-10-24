@@ -1,4 +1,0 @@
-INFO:Server Started
-ERROR:Datbase Connection Failed
-INFO:Retrying Connection
-INFO:Server Conncted
