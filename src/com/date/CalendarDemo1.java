@@ -37,11 +37,5 @@ public class CalendarDemo1{
 		System.out.println(c.getTime());
 		
 		
-		
-		
-		
-		
-		
-		
 	}
 }
